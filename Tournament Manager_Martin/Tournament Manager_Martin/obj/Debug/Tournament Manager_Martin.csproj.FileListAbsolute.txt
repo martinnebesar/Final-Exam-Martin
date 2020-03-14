@@ -1,0 +1,10 @@
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\bin\Debug\Tournament Manager_Martin.exe.config
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\bin\Debug\Tournament Manager_Martin.exe
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\bin\Debug\Tournament Manager_Martin.pdb
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament Manager_Martin.csprojAssemblyReference.cache
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament_Manager_Martin.Form1.resources
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament_Manager_Martin.Properties.Resources.resources
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament Manager_Martin.csproj.GenerateResource.cache
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament Manager_Martin.csproj.CoreCompileInputs.cache
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament Manager_Martin.exe
+C:\Martin\Tournament Manager_Martin\Tournament Manager_Martin\obj\Debug\Tournament Manager_Martin.pdb
